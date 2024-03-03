@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Algosnippet.com - A code community platform for begineers to learn and practice coding.<br><br>👯 **I’m looking to collaborate on:**  <br>Frontend and Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>ReactNative, Svelte and Docker.<br><br>💬 **Open to contribute knowledge on:**  <br>JavaScript, Reactjs, Nextjs, Node.js, Docker, ReactNative, Typescript and any other frontend technologies.<br><br>⚡ **Crazy fact:**  <br>I am still learning DSA from basics.
+🔭 **I’m currently working on:**  <br>Algosnippet.com - A code community platform for beginners to learn and practice coding.<br><br>👯 **I’m looking to collaborate on:**  <br>Frontend and Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>ReactNative, Svelte and Docker.<br><br>💬 **Open to contribute knowledge on:**  <br>JavaScript, Reactjs, Nextjs, Node.js, Docker, ReactNative, Typescript and any other frontend technologies.<br><br>⚡ **Crazy fact:**  <br>I am still learning DSA from basics.
 
 
 ## 🌐 Socials:
