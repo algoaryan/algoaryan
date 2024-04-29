@@ -18,4 +18,28 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=algoaryan&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
+
+# 💻 My Projects:
+---
+
+| Mega Projects  | Source Code | 
+| ------------- | ------------- |
+| Restaurant Website  | [Click Here](https://twitter.com/algoaryan)   |
+| Shoema | [Click Here](https://twitter.com/algoaryan) |
+| Task Master | [Click Here](https://twitter.com/algoaryan) |
+| Weather RealTime | [Click Here](https://twitter.com/algoaryan) |
+| ReactGPT | [Click Here](https://twitter.com/algoaryan) |
+| SnakeDraw | [Click Here](https://twitter.com/algoaryan) |
+
+
+---
+
+
+| Mini Projects  | Source Code |
+| ------------- | ------------- |
+| Random Dark Jokes App  | [Click Here](https://twitter.com/algoaryan)   |
+| Mini Todo App | [Click Here](https://twitter.com/algoaryan) |
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
