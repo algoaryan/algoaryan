@@ -24,12 +24,12 @@
 
 | Mega Projects  | Source Code | 
 | ------------- | ------------- |
-| Restaurant Website  | [Click Here](https://twitter.com/algoaryan)   |
-| Shoema | [Click Here](https://twitter.com/algoaryan) |
-| Task Master | [Click Here](https://twitter.com/algoaryan) |
-| Weather RealTime | [Click Here](https://twitter.com/algoaryan) |
-| ReactGPT | [Click Here](https://twitter.com/algoaryan) |
-| SnakeDraw | [Click Here](https://twitter.com/algoaryan) |
+| CaseBit  | [Click Here](https://github.com/algoaryan/casebit)   |
+| Shoema | [Click Here](https://github.com/algoaryan/shoema) |
+| Task Master | [Click Here](https://github.com/algoaryan/Todo-Master) |
+| Weather RealTime | [Click Here](https://github.com/algoaryan/Weather-Real-Time) |
+| ReactGPT | [Click Here](https://github.com/algoaryan/ReactGPT) |
+| SnakeDraw | [Click Here](https://github.com/algoaryan/SnakeDraw) |
 
 
 ---
@@ -37,8 +37,12 @@
 
 | Mini Projects  | Source Code |
 | ------------- | ------------- |
-| Random Dark Jokes App  | [Click Here](https://twitter.com/algoaryan)   |
-| Mini Todo App | [Click Here](https://twitter.com/algoaryan) |
+| Random Dark Jokes App  | [Click Here](https://github.com/algoaryan/React-Mini-Projects/tree/main/JokesApp)   |
+| Mini Todo App | [Click Here](https://github.com/algoaryan/React-Mini-Projects/tree/main/todoApp) |
+| Calculator | [Click Here](https://twitter.com/algoaryan) |
+| Random Num Generator | [Click Here](https://github.com/algoaryan/React-Mini-Projects/tree/main/randomNumGen) |
+| BgColor Changer | [Click Here](https://github.com/algoaryan/React-Mini-Projects/tree/main/Background%20Color%20Changer) |
+| Password Generator | [Click Here](https://github.com/algoaryan/React-Mini-Projects/tree/main/passwordGenerator) |
 
 
 
